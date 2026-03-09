@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+all_warehouses_products.json
+filter_api_capture.json
+filter_full_scan.json
+ova.vercel.app_api_ova_*.json
+ovacart-main.js
+ovacart-main.js.map

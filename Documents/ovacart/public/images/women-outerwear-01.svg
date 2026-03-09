@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1040" viewBox="0 0 840 1040">
+  <defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f4f2ff"/><stop offset="1" stop-color="#d7d0f8"/></linearGradient></defs>
+  <rect width="840" height="1040" fill="url(#a)"/>
+  <text x="50%" y="49%" text-anchor="middle" font-size="58" font-family="Arial, sans-serif" fill="#243145">Belted Trench Coat</text>
+  <text x="50%" y="55%" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#243145">Ova Cart</text>
+</svg>

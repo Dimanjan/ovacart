@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply m-0 bg-ova-soft text-ova-ink font-display antialiased;
+}
+
+a {
+  @apply no-underline;
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <rect x="0" y="470" width="1200" height="250" fill="#fff6e8"/>
+  <g transform="translate(160,130)">
+    <rect x="0" y="0" width="380" height="520" rx="38" fill="#17212b"/>
+    <rect x="20" y="55" width="340" height="415" rx="24" fill="#f7fbff"/>
+    <circle cx="190" cy="500" r="12" fill="#57636f"/>
+    <text x="190" y="120" text-anchor="middle" font-size="34" font-family="Arial" font-weight="700" fill="#0a7a3f">Pay Securely</text>
+    <rect x="55" y="160" width="270" height="70" rx="14" fill="#e9f4ea"/>
+    <text x="75" y="205" font-size="32" font-family="Arial" font-weight="700" fill="#0a7a3f">eSewa</text>
+    <rect x="55" y="250" width="270" height="70" rx="14" fill="#efe7fb"/>
+    <text x="75" y="295" font-size="32" font-family="Arial" font-weight="700" fill="#5d2ca9">Khalti</text>
+    <rect x="55" y="340" width="270" height="70" rx="14" fill="#fff0f0"/>
+    <text x="75" y="385" font-size="32" font-family="Arial" font-weight="700" fill="#e1161a">fonepay</text>
+  </g>
+  <g transform="translate(620,140)">
+    <rect x="0" y="0" width="430" height="250" rx="24" fill="#f4f9ff" stroke="#d0e2f4" stroke-width="4"/>
+    <text x="36" y="70" font-size="44" font-family="Arial" font-weight="700" fill="#1a66ba">VISA</text>
+    <text x="36" y="128" font-size="30" font-family="Arial" fill="#3a4a58">Accepted Online Payment</text>
+    <rect x="32" y="165" width="220" height="56" rx="12" fill="#0a7a3f"/>
+    <text x="56" y="202" font-size="28" font-family="Arial" font-weight="700" fill="#ffffff">Cash On Delivery</text>
+  </g>
+</svg>

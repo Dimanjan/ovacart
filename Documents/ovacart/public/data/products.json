@@ -1,0 +1,326 @@
+{
+  "store": "Ova Cart",
+  "currency": "NPR",
+  "products": [
+    {
+      "id": "670656f01bd6764e54acb21c",
+      "name": "Anadi Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 350,
+      "image": "/images/products/670656f01bd6764e54acb21c.webp",
+      "description": "Anadi Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "6706571d1bd6764e54acb229",
+      "name": "Basmati Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 175,
+      "image": "/images/products/6706571d1bd6764e54acb229.webp",
+      "description": "Basmati Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670656941bd6764e54acb202",
+      "name": "Ekle Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 270,
+      "image": "/images/products/670656941bd6764e54acb202.webp",
+      "description": "Ekle Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670656491bd6764e54acb1f5",
+      "name": "Jetho Budo Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 290,
+      "image": "/images/products/670656491bd6764e54acb1f5.webp",
+      "description": "Jetho Budo Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670656c21bd6764e54acb20f",
+      "name": "Marsi Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 270,
+      "image": "/images/products/670656c21bd6764e54acb20f.webp",
+      "description": "Marsi Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065d7c1bd6764e54acb2ab",
+      "name": "Rice Flour",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 130,
+      "image": "/images/products/67065d7c1bd6764e54acb2ab.webp",
+      "description": "Rice Flour from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "6706575c1bd6764e54acb236",
+      "name": "Sticky Chamal",
+      "category": "Chamal",
+      "subCategory": "Kg",
+      "price": 170,
+      "image": "/images/products/6706575c1bd6764e54acb236.webp",
+      "description": "Sticky Chamal from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e97013a06b7000601cab0",
+      "name": "Cordyceps",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 2700,
+      "image": "/images/products/684e97013a06b7000601cab0.webp",
+      "description": "Cordyceps from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e98f9dbbc8d000648b838",
+      "name": "Ginseng",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 3000,
+      "image": "/images/products/684e98f9dbbc8d000648b838.webp",
+      "description": "Ginseng from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e96cb3a06b7000601caa3",
+      "name": "Gulcosamine",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 1600,
+      "image": "/images/products/684e96cb3a06b7000601caa3.webp",
+      "description": "Gulcosamine from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e97a33a06b7000601cad7",
+      "name": "Noni",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 1100,
+      "image": "/images/products/684e97a33a06b7000601cad7.webp",
+      "description": "Noni from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e976b3a06b7000601caca",
+      "name": "Spirulina",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 900,
+      "image": "/images/products/684e976b3a06b7000601caca.webp",
+      "description": "Spirulina from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "684e97393a06b7000601cabd",
+      "name": "Yarsha",
+      "category": "Food Supplements",
+      "subCategory": "Pieces",
+      "price": 5200,
+      "image": "/images/products/684e97393a06b7000601cabd.webp",
+      "description": "Yarsha from Ova Mart. Pack size: 10000 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065df21bd6764e54acb2b8",
+      "name": "Apple/Apricot Juice",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 450,
+      "image": "/images/products/67065df21bd6764e54acb2b8.webp",
+      "description": "Apple/Apricot Juice from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065a2c1bd6764e54acb28c",
+      "name": "Barley",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 150,
+      "image": "/images/products/67065a2c1bd6764e54acb28c.webp",
+      "description": "Barley from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670659e11bd6764e54acb27f",
+      "name": "Barley Flour",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 200,
+      "image": "/images/products/670659e11bd6764e54acb27f.webp",
+      "description": "Barley Flour from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670658641bd6764e54acb272",
+      "name": "Barley Grits",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 230,
+      "image": "/images/products/670658641bd6764e54acb272.webp",
+      "description": "Barley Grits from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065e3a1bd6764e54acb2c5",
+      "name": "Garlic",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 450,
+      "image": "/images/products/67065e3a1bd6764e54acb2c5.webp",
+      "description": "Garlic from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065eac1bd6764e54acb2d2",
+      "name": "Potato",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 130,
+      "image": "/images/products/67065eac1bd6764e54acb2d2.webp",
+      "description": "Potato from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065ef71bd6764e54acb2e4",
+      "name": "Potato (Mustang)",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 130,
+      "image": "/images/products/67065ef71bd6764e54acb2e4.webp",
+      "description": "Potato (Mustang) from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065a621bd6764e54acb299",
+      "name": "Wheat Grits",
+      "category": "Khadhyana",
+      "subCategory": "Kg",
+      "price": 150,
+      "image": "/images/products/67065a621bd6764e54acb299.webp",
+      "description": "Wheat Grits from Ova Mart. Pack size: 1 kg.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67064f66703d9d05f8cfe9c4",
+      "name": "Kid's Lito 750gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 640,
+      "image": "/images/products/67064f66703d9d05f8cfe9c4.webp",
+      "description": "Kid's Lito 750gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67064f0709a08455a4541912",
+      "name": "Mom's Delight 750gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 840,
+      "image": "/images/products/67064f0709a08455a4541912.webp",
+      "description": "Mom's Delight 750gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67064b101771e82b687e75bc",
+      "name": "Multigrain Satu 1.8kg",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 600,
+      "image": "/images/products/67064b101771e82b687e75bc.webp",
+      "description": "Multigrain Satu 1.8kg from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67064a5b1771e82b687e7594",
+      "name": "Multigrain Satu 400gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 160,
+      "image": "/images/products/67064a5b1771e82b687e7594.webp",
+      "description": "Multigrain Satu 400gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67064ac71771e82b687e75af",
+      "name": "Multigrain Satu 750gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 300,
+      "image": "/images/products/67064ac71771e82b687e75af.webp",
+      "description": "Multigrain Satu 750gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670651307cdda624287b663c",
+      "name": "Nutri+Satu 1.8kg",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 1800,
+      "image": "/images/products/670651307cdda624287b663c.webp",
+      "description": "Nutri+Satu 1.8kg from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "6706502e44e9703664b788f0",
+      "name": "Nutri+Satu 400gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 470,
+      "image": "/images/products/6706502e44e9703664b788f0.webp",
+      "description": "Nutri+Satu 400gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670650f61ef99a0c5027d284",
+      "name": "Nutri+Satu 750gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 900,
+      "image": "/images/products/670650f61ef99a0c5027d284.webp",
+      "description": "Nutri+Satu 750gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670654101bd6764e54acb1c1",
+      "name": "Nutty Delight Satu 1.8kg",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 880,
+      "image": "/images/products/670654101bd6764e54acb1c1.webp",
+      "description": "Nutty Delight Satu 1.8kg from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "67065366be166f2b1810afd1",
+      "name": "Nutty Delight Satu 400gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 240,
+      "image": "/images/products/67065366be166f2b1810afd1.webp",
+      "description": "Nutty Delight Satu 400gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    },
+    {
+      "id": "670653dd1bd6764e54acb1b4",
+      "name": "Nutty Delight Satu 750gms",
+      "category": "Satu",
+      "subCategory": "Pieces",
+      "price": 440,
+      "image": "/images/products/670653dd1bd6764e54acb1b4.webp",
+      "description": "Nutty Delight Satu 750gms from Ova Mart. Pack size: 1 pieces.",
+      "source": "https://www.ovacart.com.np"
+    }
+  ]
+}
