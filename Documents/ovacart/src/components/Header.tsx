@@ -1,6 +1,5 @@
 import { FormEvent, useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
-import { useAuth } from '../context/AuthContext';
 import { useCart } from '../context/CartContext';
 
 function CartIcon() {
@@ -15,7 +14,6 @@ function CartIcon() {
 
 export default function Header() {
   const [search, setSearch] = useState('');
-  const { isLoggedIn, user, logout } = useAuth();
   const { totalItems } = useCart();
   const navigate = useNavigate();
 
@@ -55,16 +53,6 @@ export default function Header() {
             <span>Cart</span>
             <span className="inline-flex min-w-5 items-center justify-center rounded-full bg-ova-yellow px-1.5 text-xs font-bold text-slate-900">{totalItems}</span>
           </NavLink>
-          {isLoggedIn ? (
-            <button type="button" onClick={logout} className="rounded-lg border border-emerald-200 px-3 py-1.5 text-sm text-ova-green transition hover:bg-emerald-50">
-              Logout {user?.name}
-            </button>
-          ) : (
-            <>
-              <NavLink className="rounded-lg border border-emerald-200 px-3 py-1.5 transition hover:bg-emerald-50" to="/register">Register</NavLink>
-              <NavLink className="rounded-lg bg-ova-green px-3 py-1.5 text-white transition hover:bg-ova-deep" to="/login">Login</NavLink>
-            </>
-          )}
         </nav>
       </div>
     </header>

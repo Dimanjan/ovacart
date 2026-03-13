@@ -5,11 +5,9 @@ import CartPage from './pages/CartPage';
 import CatalogPage from './pages/CatalogPage';
 import ContactPage from './pages/ContactPage';
 import HomePage from './pages/HomePage';
-import LoginPage from './pages/LoginPage';
 import NotFoundPage from './pages/NotFoundPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
 import ProductPage from './pages/ProductPage';
-import RegisterPage from './pages/RegisterPage';
 
 export default function App() {
   return (
@@ -23,8 +21,6 @@ export default function App() {
           <Route path="/product/:productId" element={<ProductPage />} />
           <Route path="/cart" element={<CartPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          <Route path="/login" element={<LoginPage />} />
-          <Route path="/register" element={<RegisterPage />} />
           <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>

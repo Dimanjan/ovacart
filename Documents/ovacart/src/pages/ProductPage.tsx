@@ -1,17 +1,14 @@
-import { Link, useLocation, useNavigate, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import OptimizedImage from '../components/OptimizedImage';
 import Seo from '../components/Seo';
-import { useAuth } from '../context/AuthContext';
 import { useCart } from '../context/CartContext';
 import useProducts from '../hooks/useProducts';
 
 export default function ProductPage() {
   const { productId } = useParams();
   const { products, loading, error } = useProducts();
-  const { isLoggedIn } = useAuth();
   const { addToCart } = useCart();
   const navigate = useNavigate();
-  const location = useLocation();
 
   const product = products.find((item) => item.id === productId);
 
@@ -20,10 +17,6 @@ export default function ProductPage() {
   if (!product) return <p className="text-slate-500">Product not found.</p>;
 
   const onAdd = () => {
-    if (!isLoggedIn) {
-      navigate('/login', { state: { from: location.pathname } });
-      return;
-    }
     addToCart(product);
     navigate('/cart');
   };
