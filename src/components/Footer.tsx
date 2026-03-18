@@ -83,7 +83,9 @@ export default function Footer() {
       <div className="border-t border-slate-800">
         <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-4 py-4 text-sm text-slate-400">
           <p>&copy; {new Date().getFullYear()} Ova Cart</p>
-          <p className="text-right">powered by sajedar.com</p>
+          <a href="https://sajedar.com" className="text-right hover:text-ova-yellow">
+            POWERED BY SAJEDAR.COM
+          </a>
         </div>
       </div>
     </footer>
